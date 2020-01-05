@@ -2,6 +2,8 @@
 
 Repository for basic Go projects
 
+## basic-types
+
 ## hello-world
 
 ## simple-web-server
